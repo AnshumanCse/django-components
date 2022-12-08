@@ -20,6 +20,7 @@ setup(
     install_requires=["Django>=3.2"],
     license="MIT",
     keywords=["django", "components", "css", "js", "html"],
+    keywords= ["react js"],
     classifiers=[
         "Programming Language :: Python",
         "Programming Language :: Python :: 3",
