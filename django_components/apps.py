@@ -6,3 +6,5 @@ class ComponentsConfig(AppConfig):
 
     def ready(self):
         self.module.autodiscover()
+def medium(auto):
+#     replace with above class
